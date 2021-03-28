@@ -5,6 +5,6 @@ The work here was done using **Oracle's SQL Developer** and **SQL**
 
 | Iterace | Body | Max |
 |---------|------|-----|
-|    1.   | 2.5b :blush: | 2b  |
-|    2.   |  7b :blush:  | 6b  |
-|    3.   | 13.5b :flushed: | 14b |
+|    1.   | 2.5b | 2b  |
+|    2.   |  7b  | 6b  |
+|    3.   | 13.5b| 14b |
