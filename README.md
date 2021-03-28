@@ -3,8 +3,8 @@
 This repo contains my semestral project which is a database model for an International Space Parking Station. :rocket:  
 The work here was done using **Oracle's SQL Developer** and **SQL**  
 
-| Iterace | Body | Max |
-|---------|------|-----|
-|    1.   | 2.5b | 2b  |
-|    2.   |  7b  | 6b  |
-|    3.   | 13.5b| 14b |
+| Iterace | Body |
+|---------|------|
+|    1.   |  2.5 /2  |
+|    2.   |  7.0 /6b  |
+|    3.   | 13.5 /14b |
