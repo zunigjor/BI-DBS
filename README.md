@@ -5,6 +5,6 @@ The work here was done using **Oracle's SQL Developer** and **SQL**
 
 | Iterace | Body |
 |---------|------|
-|    1.   |  2.5 /2  |
-|    2.   |  7.0 /6  |
-|    3.   | 13.5 /14 |
+|    1.   |  2.5 /2 :blush: |
+|    2.   |  7.0 /6 :blush: |
+|    3.   | 13.5 /14 :flushed: |
